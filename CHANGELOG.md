@@ -1,5 +1,11 @@
 # @sakthivelm/reusable-components
 
+## 1.0.1
+
+### Patch Changes
+
+- 43e1860: tree shakable pathc code added"
+
 ## 1.0.0
 
 ### Major Changes
