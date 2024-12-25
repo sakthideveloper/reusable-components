@@ -1,6 +1,6 @@
 {
-  "name": "@sakthivelm/reusable-components",
-  "version": "1.0.0",
+  "name": "@wedoitz/reusable-components",
+  "version": "0.0.0",
   "description": "This package implements react components based on MUI",
   "type": "module",
   "main": "lib/index.cjs",
@@ -21,7 +21,7 @@
     "build": "rollup -c --bundleConfigAsCjs",
     "release-package": "npm run build && npx changeset publish"
   },
-  "author": "sakthivelm",
+  "author": "wedoitz",
   "license": "MIT",
   "dependencies": {
     "@emotion/react": "11.11.3",
